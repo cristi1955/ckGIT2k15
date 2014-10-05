@@ -16,5 +16,17 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            char[] strvect = textBox1.Text.ToCharArray();
+            Array.Reverse(strvect);
+            textBox2.Text=new string(strvect);
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
