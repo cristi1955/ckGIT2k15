@@ -1,0 +1,9 @@
+D:\2015_FMI\ckGIT2k15\ckWinFormEx\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\2015_FMI\ckGIT2k15\ckWinFormEx\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\2015_FMI\ckGIT2k15\ckWinFormEx\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\2015_FMI\ckGIT2k15\ckWinFormEx\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\2015_FMI\ckGIT2k15\ckWinFormEx\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\2015_FMI\ckGIT2k15\ckWinFormEx\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\2015_FMI\ckGIT2k15\ckWinFormEx\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\2015_FMI\ckGIT2k15\ckWinFormEx\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\2015_FMI\ckGIT2k15\ckWinFormEx\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
